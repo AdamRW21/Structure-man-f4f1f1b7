@@ -1,0 +1,59 @@
+td,
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 15px 20px;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: green;
+}
+
+td {
+    text-align: center;
+}
+
+td {
+    background-color: grey;
+    color: white;
+}
+
+th {
+    background-color: whitesmoke;
+}
+
+th,
+td {
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: .8rem;
+}
+
+a {
+   color: white;
+}
+
+li {
+    list-style-type: none;
+}
